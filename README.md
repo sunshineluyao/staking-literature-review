@@ -1,5 +1,6 @@
 # References for "Design Staking Mechanism for Blockchain Consensus and Governance: A Comparative Study of Ethereum 2.0, Algorand, and Internet Computer"
 
+![][./figures/literature.png]
 
 ```
 @article{david_2018_ouroboros,
