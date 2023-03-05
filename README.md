@@ -1,4 +1,4 @@
-# staking-literature-review
+# References for "Design Staking Mechanism for Blockchain Consensus and Governance: A Comparative Study of Ethereum 2.0, Algorand, and Internet Computer"
 
 
 ```
@@ -522,6 +522,56 @@
   url = {https://www.algorand.foundation/general-faq#governance-faq-header},
   urldate = {2023-02-05},
   organization = {www.algorand.foundation}
+}
+
+@article{buterin_2020_combining,
+  author = {Buterin, Vitalik and Hernandez, Diego and Kamphefner, Thor and Pham, Khiem and Qiao, Zhi and Ryan, Danny and Sin, Juhyeok and Wang, Ying and Zhang, Yan X.},
+  month = {05},
+  title = {Combining GHOST and Casper},
+  url = {https://arxiv.org/abs/2003.03052},
+  year = {2020},
+  journal = {arXiv:2003.03052 [cs]}
+}
+
+@article{kiayias_2022_sok,
+  author = {Kiayias, Aggelos and Lazos, Philip},
+  month = {01},
+  title = {SoK: Blockchain Governance},
+  url = {https://arxiv.org/abs/2201.07188},
+  urldate = {2022-03-26},
+  year = {2022},
+  journal = {arXiv:2201.07188 [cs]}
+}
+
+@misc{governance,
+  title = {Governance | Algorand Foundation},
+  url = {https://www.algorand.foundation/governance},
+  urldate = {2023-03-05},
+  organization = {www.algorand.foundation}
+}
+
+@article{ramos_2015_liquid,
+  author = {Ramos, José},
+  pages = {173-191},
+  title = {Liquid Democracy and the Futures of Governance},
+  doi = {10.1007/978-3-319-22994-2_11},
+  year = {2015},
+  journal = {Public Administration and Information Technology}
+}
+
+@misc{a2022_a,
+  month = {12},
+  title = {A Detailed Guide to Voting on Proposals and Earning Rewards through the NNS},
+  url = {https://www.dfinitycommunity.com/a-detailed-guide-to-voting-on-proposals-and-earning-substantial-rewards-through-the-nns/},
+  urldate = {2023-03-05},
+  year = {2022},
+  organization = {CoinHustle}
+}
+
+@misc{ethereum,
+  title = {Ethereum staking},
+  url = {https://ethereum.org/en/staking/},
+  organization = {ethereum.org}
 }
 
 
