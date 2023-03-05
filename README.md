@@ -2,6 +2,10 @@
 
 ![](./figures/literature.png)
 
+![](./figures/consensus_application.png)
+
+![](./figures/consensus_blockchain.png)
+
 ```
 @article{david_2018_ouroboros,
   author = {David, Bernardo and Gaži, Peter and Kiayias, Aggelos and Russell, Alexander},
